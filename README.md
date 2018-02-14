@@ -1,0 +1,1 @@
+This repository shows a basic method of benchmarking canvas draw cycles by measuring between two marks placed with the animation loop. The marks placed are not timestamps but `DOMHighResTimeStamp`, these are accurate to at best 5 microseconds of precision.
